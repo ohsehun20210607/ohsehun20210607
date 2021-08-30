@@ -1,16 +1,11 @@
 ### Welcome to sehun's Github Story!  👋
-👨‍🎓 
+👨‍🎓 Most people say. We need to show new technology and unique technology. Rather than creating something out of nothing, I think we should put our own colors on the techniques that have already been made. KEEP TRYING. It is the way I make my life. 
 
 If anyone who visits my website first, plz go to the TIL Repository and try to click Embedded section! You can see how I am studying and what kind of skills that I've learned.
 
-
 Please visit ohsehunportfolio.com for looking around sehun's portfolio. You can see my life and work that i've done. It will be renewled, but hope you enjoy my trip.
 
-If you have any questions, feel free to contact me (tpsk4270@naver.com) ! Thank you
-
-🍭 Currently Studying
-
-Emebedded : 
+🍭 If you have any questions, feel free to contact me (tpsk4270@naver.com) ! Thank you
 
 <!--
 **sehunOoh/sehunOoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
